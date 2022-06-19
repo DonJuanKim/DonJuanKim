@@ -8,9 +8,8 @@
 - 🚌 Recently graduated from Le wagon batch#870
 - 🌱 I'm currently learning **React**
 
-<br>
+
 <h3 align="center">Contact</h3>
-<br>
 <h3 align="center">LinkedIn <a href="https://www.linkedin.com/in/kim-donghwan/">here 👨🏻‍🏫 </a></h3>
 
 
