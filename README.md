@@ -24,6 +24,3 @@
 <br>
 <h3 align="center">Contact</h3>
 <h3 align="center">LinkedIn <a href="https://www.linkedin.com/in/kim-donghwan/">here 👨🏻‍🏫 </a></h3>
-
-
-<br>
