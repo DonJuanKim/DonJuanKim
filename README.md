@@ -4,8 +4,7 @@
 <h3 align="center">A passionate and creative full-stack developer from Seoul, South Korea</h3>
 <br>
 
-- 🚌 Alumnus from Le wagon, batch#870
-- 🌱 I'm currently learning **React**
+- 🚌 Alumnus from Le wagon
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
