@@ -1,11 +1,11 @@
 <!-- Heading -->
 
 <h1 align="center">Hi 👋, I'm Donghwan</h1>
-<h3 align="center">A passionate and creative full-stack developer from Seoul, South Korea</h3>
+<h3 align="center">A passionate and creative full-stack developer from South Korea 🇰🇷</h3>
 <br>
 
-🌱 I’m currently learning **React JS, Node JS, TypeScript**
-🚌 Alumnus from Le wagon
+- 🌱 I’m currently learning **React JS, Node JS, TypeScript**
+- 🚌 Alumnus from Le wagon
 
 ## My skills:
 
@@ -19,14 +19,13 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Backend:
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### Database and BaaS:
+### Database:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
