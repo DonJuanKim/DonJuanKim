@@ -1,7 +1,7 @@
 <!-- Heading -->
 
 <h1 align="center">Hi 👋, I'm Donghwan</h1>
-<h3 align="center">A passionate and creative full-stack developer from South Korea 🇰🇷</h3>
+<h3 align="center">A passionate and creative full-stack engineer from South Korea 🇰🇷</h3>
 <br>
 
 - 🌱 I’m currently learning **React JS, Node JS, TypeScript**
