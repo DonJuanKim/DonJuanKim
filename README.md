@@ -4,7 +4,7 @@
 <h3 align="center">A passionate and creative full-stack developer from Seoul, South Korea</h3>
 <br>
 
-I'm a Web Developer based in Berlin!
+I'm a Web Developer based in Berlin.
 
 🌱 I’m currently learning **React JS, Node JS, TypeScript**
 🚌 Alumnus from Le wagon
